@@ -1,5 +1,20 @@
 
-[![Saulo GitHub stats](https://github-readme-stats.vercel.app/api?username=S4ullo)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=S4ullo&show_icons=true&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4ullo&layout=compact&theme=tokyonight"
+    alt="Principais linguagens"
+  />
+</p>
+
+
+
 
 # 👋 Saulo Santos
 
