@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**S4ullo/S4ullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Saulo GitHub stats](https://github-readme-stats.vercel.app/api?username=S4ullo)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+# 👋 Saulo Santos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Técnico em Desenvolvimento de Sistemas  
+💻 Desenvolvedor Back-End em formação  
+📍 Brasil  
+
+Sou desenvolvedor com base sólida em lógica de programação, análise de sistemas e desenvolvimento de aplicações, com foco em **Back-End**.  
+Tenho experiência acadêmica em projetos envolvendo APIs, banco de dados e estruturação de sistemas.
+
+---
+
+## 🧠 Formação e Base Técnica
+
+Curso Técnico em Desenvolvimento de Sistemas, com estudos nas seguintes áreas:
+
+- Fundamentos de Programação
+- Linguagens de Programação
+- Programação Back-End
+- Banco de Dados
+- Análise e Projetos de Sistemas
+- Desenvolvimento de Aplicações
+- Internet e Redes
+- Segurança da Informação
+- Sistemas Inteligentes
+- Administração de Websites
+- Experiência do Usuário (UX)
+
+---
+
+## 🛠️ Tecnologias e Conceitos
+
+**Back-End**
+- Lógica de programação
+- Estruturação de APIs
+- Integração com banco de dados
+- Validação de dados e regras de negócio
+
+**Banco de Dados**
+- Modelagem de dados
+- SQL
+- Relacionamentos e consultas
+
+**Outros conhecimentos**
+- Git e GitHub
+- Conceitos de redes
+- Boas práticas de segurança da informação
+- Noções de arquitetura de sistemas
+
+---
+
